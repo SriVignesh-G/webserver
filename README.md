@@ -64,7 +64,7 @@ httpd.serve_forever()
 ## OUTPUT:
 
 ### client output:
-![clientt output](./clientoutput1.jpg)
+![client output](./clientoutput.jpg)
 
 ### server output:
 ![server output](./serveroutput.jpg)
